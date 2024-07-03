@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manaschinkate&show_icons=true&locale=en&layout=compact" alt="manaschinkate" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manaschinkate&show_icons=true&locale=en" alt="manaschinkate" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manaschinkate&" alt="manaschinkate" /></p>
