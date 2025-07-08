@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux Typescript**
 
-- 👨‍💻 All of my projects are available at [https://manaschinkate.github.io/Portfolio/](https://manaschinkate.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://manaschinkate.github.io/PortfolioLatest/](https://manaschinkate.github.io/PortfolioLatest/)
 
 - 💬 Ask me about **React, TailwindCSS, JavaScript**
 
