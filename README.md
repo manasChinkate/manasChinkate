@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manaschinkate" alt="manaschinkate" /></a> </p>
 
-- 🌱 I’m currently learning **Redux Typescript**
+- 🌱 I’m currently learning **Advance Javascript**
 
 - 👨‍💻 All of my projects are available at [https://manaschinkate.github.io/PortfolioLatest/](https://manaschinkate.github.io/PortfolioLatest/)
 
