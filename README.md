@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manaschinkate" alt="manaschinkate" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Javascript**
+- 🌱 I’m currently learning **Frontend Design Patterns**
 
 - 👨‍💻 All of my projects are available at [https://manaschinkate.github.io/PortfolioLatest/](https://manaschinkate.github.io/PortfolioLatest/)
 
-- 💬 Ask me about **React, TailwindCSS, JavaScript**
+- 💬 Ask me about **React, TailwindCSS, JavaScript Typescript**
 
 - 📫 How to reach me **mchinkate1414@gmail.com**
 
